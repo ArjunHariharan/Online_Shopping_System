@@ -1,0 +1,32 @@
+		     INSPIRE 14Z		INSPIRE 15Z
+
+OS		WINDOWS 7 HOME(64 BIT)	    WINDOWS 7 HOME (64 BIT)
+
+DISPLAY			14"			   15"
+
+PROCESSOR	  intel i3(2.1 ghz)	      intel i3(2.1 ghz)
+
+MEMORY		  4 GB(2x2 DDR3)	      4 GB  (2x2 DDR3)
+
+GRAPHICS	  AMD 1 GB			NVIDIA 1 GB
+
+HARD DRIVE	  500 GB(HDD)			 750 GB(HDD)
+
+BATTERY		   4.5 HRS			  6 HRS
+
+WEIGHT		   2.8 KG			 3.2 KG
+
+CAMERA		   1.5 MP			  1.5 MP
+
+DISPLAY 	LED DISPLAY			LED DISPLAY
+                 1366x768			1366x768
+
+PRICE 		  *42,545/-			 *51,250/-
+
+
+		    (1)				    (2)
+
+						(*PRICES SUBJECTED TO CHANGE)
+
+
+
